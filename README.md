@@ -1,9 +1,5 @@
 # VeChain General Grant Program <!-- omit in toc -->
 
-<p align="center">
-  <img src="src/Open_Grants_Program.png" style="width:1300px";>
-</p>
-
 **Important:** The VeChain Foundation General Grant Program, aiming to grow VeChain's developer community and enlarge its ecosytemf, is up to **$30,000 for every application**, which are tracked **transparently** on GitHub and disbursed in **USDT(ERC 20)**.
 
 
@@ -13,9 +9,9 @@
   - [Guidelines](#guidelines)
   - [Support](#support)
   - [Team](#team)
-    - [VeChain Grant Committee](#w3f-grants-committee)
-    - [VeChain Grant Evaluators](#w3f-grants-evaluators)
-    - [VeChain Operation Team](#w3f-operations-team)
+    - [VeChain Grant Committee](#vechain-grant-committee)
+    - [VeChain Grant Evaluators](#vechain-grant-evaluators)
+    - [VeChain Operation Team](#vechain-operation-team)
 - [Process](#process)
 - [Help](#help)
   - [Additional information](#additional-information)
@@ -49,7 +45,7 @@ Additionally, it must fulfill the following requirements:
 - We do not award grants for projects that have been the object of a successful token sale.However, we do not limit project's option to do token sales in the future.
 - Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
 
-In addition to the information provided on your application, note that your project will need to comply with our [Guidelines for Milestone Deliverables](https://github.com/JaniceVVV/Grant-Milestone-Delivery/blob/master/README.md). In particular, we require all projects to create documentation that explains how their project works. At a minimum, _written_ documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider hiring a freelance or part-time technical writer as part of the grant.
+In addition to the information provided on your application, note that your project will need to comply with our [Grant Milestone Delivery](/milestone-delivery/README.md). In particular, we require all projects to create documentation that explains how their project works. At a minimum, _written_ documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider hiring a freelance or part-time technical writer as part of the grant.
 
 
 ### Support
@@ -58,7 +54,7 @@ The scope of our General Grants Programs consists of funding and feedback on del
 
 ### Team
 
-#### Grant Committee
+#### VeChain Grant Committee
 
 The committee consists of individuals who know the funding priorities of the VeChain ecosystem, and is responsible for evaluating grant applications and providing feedback on these.
 
@@ -68,7 +64,7 @@ In cases where a niche expert opinion is desirable, one of the committee members
 - [Sunny Lu]()
 - [Bin Qian](https://github.com/qianbin)
 
-#### Grant Evaluators
+#### VeChain Grant Evaluators
 
 Evaluators are individuals who will perform the preliminary review to check whether tha application is formatted correctly and includes all the requested information.The committee has the right to add or remove evaluators on the basis of supermajority.
 
@@ -77,7 +73,7 @@ Evaluators are individuals who will perform the preliminary review to check whet
 - [Xiqing Chu](https://github.com/laalaguer)
 - [Mog Lu](https://github.com/mongelly)
 
-#### VeChain Operations Team
+#### VeChain Operation Team
 
 The Operations Team takes care of remittances.
 
@@ -87,18 +83,18 @@ The Operations Team takes care of remittances.
 ## Process
 
 1. **Application**
-   1. [Fork](https://github.com/JaniceVVV/Open-Grants-Program/fork) this repository.
+   1. [Fork](https://github.com/vechain/Grants-Program/) this repository.
    2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)).Make sure you **do not modify the template file directly**.
    3. Name the new file after your project: `project_name.md`.
    4. Fill out the template with the details of your project. The more information you provide, the faster the review.
    5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
-   6. Please read the [disclaimer](pending) carefully before applying VeChain General Grant.
+   6. Please read the [disclaimer](disclaimer.md) carefully before applying VeChain General Grant.
 2. **Application Review**
-   1. The [committee](#grant-committee) and [Evaluators](#grant-evaluators)can (and usually does) issue comments and request changes on the pull request.
+   1. The [committee](#vechain-grant-committee) and [Evaluators](#vechain-grant-evaluators)can (and usually does) issue comments and request changes on the pull request.
    2. Clarifications and amendments made in the comments _need to be included in the application_. You may address feedback by modifying your application directly and leaving a comment once you're done.
    3. The application is accepted when all requested changes are addressed, and one committee member approves your pull request.
 3. **Milestone Delivery and Payment**
-   1. Milestones are to be delivered on the [Grant Milestone Delivery](https://github.com/w3f/Grant-Milestone-Delivery/) repository. You can find the delivery process [here](https://github.com/w3f/Grant-Milestone-Delivery#mailbox-milestone-delivery-process).
+   1. Milestones are to be delivered on the [Grant Milestone Delivery](/Milestone-Delivery/README.md) repository. You can find the delivery process [here](Milestone-Delivery/README.md#mailbox-milestone-delivery-process).
 
 The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
@@ -121,8 +117,8 @@ We have Element channels for real-time discussions on VeChain blockchain. Join t
 
 Below is a list of other bounty programs in the VeChain ecosystem:
 
-- [VeChainThor Mainnet Bug Bounty]pending
-- [VeChainThor Wallet Bug Bounty] pending
+- [VeChainThor Mainnet Bug Bounty](https://github.com/vechain/thor)
+- [VeChainThor Wallet Bug Bounty](https://vechain.typeform.com/to/c8xfxr)
 
 
 ## License <!-- omit in toc -->
