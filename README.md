@@ -77,7 +77,7 @@ Evaluators are individuals who will perform the preliminary review to check whet
 
 The Operations Team takes care of remittances.
 
-- [Janice Hua]](https://github.com/JaniceVVV)
+- [Janice Hua](https://github.com/JaniceVVV)
 - [Sherry Li](https://github.com/NecoSherry)
 
 ## Process
@@ -94,7 +94,7 @@ The Operations Team takes care of remittances.
    2. Clarifications and amendments made in the comments _need to be included in the application_. You may address feedback by modifying your application directly and leaving a comment once you're done.
    3. The application is accepted when all requested changes are addressed, and one committee member approves your pull request.
 3. **Milestone Delivery and Payment**
-   1. Milestones are to be delivered on the [Grant Milestone Delivery](/Milestone-Delivery/README.md) repository. You can find the delivery process [here](Milestone-Delivery/README.md#mailbox-milestone-delivery-process).
+   1. Milestones are to be delivered on the [Grant Milestone Delivery](milestone-delivery) repository. You can find the delivery process [here](milestone-delivery#mailbox-milestone-delivery-process).
 
 The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
