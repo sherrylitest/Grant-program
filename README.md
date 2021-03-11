@@ -87,7 +87,7 @@ The Operations Team takes care of remittances.
 
 1. **Application**
    1. [Fork](https://github.com/vechain/Grants-Program/) this repository.
-   2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)) or research template(applications/research-proposal-template.md.md).Make sure you **do not modify the template file directly**.
+   2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)) or the research template([`applications/research-proposal-template.md`](applications/research-proposal-template.md)).Make sure you **do not modify the template file directly**.
    3. Name the new file after your project: `project_name.md`.
    4. Fill out the template with the details of your project. The more information you provide, the faster the review.
    5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
