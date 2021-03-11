@@ -96,7 +96,7 @@ The Operations Team takes care of remittances.
    1. The [Evaluators](#vechain-grant-evaluators) will check if the application is formatted correctly and includes all requested information. 
    2. The [Evaluators](#vechain-grant-evaluators) can (and usually does) issue comments and request additional information on the pull request.
    3. The [Evaluators](#vechain-grant-evaluators) will label the pull request "ready for committee review" if the application passed the preliminary review.
-3. **Application Review**
+3. **Committee Review**
    1. The [committee](#vechain-grant-committee) can (and usually does) issue comments and request changes on the pull request.
    2. Clarifications and amendments made in the comments _need to be included in the application_. You may address feedback by modifying your application directly and leaving a comment once you're done.
    3. The application is accepted when all requested changes are addressed, and one committee member approves your pull request.
