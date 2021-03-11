@@ -67,6 +67,7 @@ In cases where a niche expert opinion is desirable, one of the committee members
 - [Peter Zhou](https://github.com/zzGHzz)
 - [Sunny Lu]()
 - [Bin Qian](https://github.com/qianbin)
+- pending？
 
 #### Grant Evaluators
 
@@ -76,6 +77,8 @@ Evaluators are individuals who will perform the preliminary review to check whet
 - [Jack Wu](https://github.com/XJWX89)
 - [Xiqing Chu](https://github.com/laalaguer)
 - [Mog Lu](https://github.com/mongelly)
+- [Zhijie Ren](https://github.com/Zhijieren)
+- [Asbert Ma](http://github.com/asbertMa/)
 
 #### VeChain Operations Team
 
@@ -88,16 +91,20 @@ The Operations Team takes care of remittances.
 
 1. **Application**
    1. [Fork](https://github.com/JaniceVVV/Open-Grants-Program/fork) this repository.
-   2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)).Make sure you **do not modify the template file directly**.
+   2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)) or research template(任博士模版md文件链接).Make sure you **do not modify the template file directly**.
    3. Name the new file after your project: `project_name.md`.
    4. Fill out the template with the details of your project. The more information you provide, the faster the review.
    5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
    6. Please read the [disclaimer](pending) carefully before applying VeChain General Grant.
-2. **Application Review**
-   1. The [committee](#grant-committee) and [Evaluators](#grant-evaluators)can (and usually does) issue comments and request changes on the pull request.
+2. **Preliminary Review**
+   1. The [Evaluators](#grant-evaluators) will check if the application is formatted correctly and includes all requested information. 
+   2. The [Evaluators](#grant-evaluators) can (and usually does) issue comments and request additional information on the pull request.
+   3. The [Evaluators](#grant-evaluators) will label the pull request "ready for committee review" if the application passed the preliminary review.
+4. **Application Review**
+   1. The [committee](#grant-committee) can (and usually does) issue comments and request changes on the pull request.
    2. Clarifications and amendments made in the comments _need to be included in the application_. You may address feedback by modifying your application directly and leaving a comment once you're done.
    3. The application is accepted when all requested changes are addressed, and one committee member approves your pull request.
-3. **Milestone Delivery and Payment**
+5. **Milestone Delivery and Payment**
    1. Milestones are to be delivered on the [Grant Milestone Delivery](https://github.com/w3f/Grant-Milestone-Delivery/) repository. You can find the delivery process [here](https://github.com/w3f/Grant-Milestone-Delivery#mailbox-milestone-delivery-process).
 
 The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
