@@ -22,10 +22,10 @@ The milestone delivery process is part of the [General Grant Program](../README.
    4. Fill out the template with the details of your milestone including a **link to the pull request** of your application.
    5. Once you're done, create a pull request.
 2. **Milestone Review:**
-   1. [Evaluators](.../Grant-program#vechain-grant-evaluators) can (and usually do) issue comments and request changes on the pull request. Their feedback needs to be resolved before your milestone is accepted.
+   1. [Evaluators](../README.md#vechain-grant-evaluators) can (and usually do) issue comments and request changes on the pull request. Their feedback needs to be resolved before your milestone is accepted.
    2. Grants Evaluators will merge your pull request to accept the delivery.
 3. **Milestone Payment:**
-   1. The [Operation Team](.../Grant-program#vechain-operation-team) receives a notification once the delivery is accepted.
+   1. The [Operation Team](../README.md#vechain-operation-team) receives a notification once the delivery is accepted.
    2. Payment is made to the ERC 20 address specified in the initial application. The exchange rate for VET/BTC depends on the time of payment.
 
 Grant applications can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
