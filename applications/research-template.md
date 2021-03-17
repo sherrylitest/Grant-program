@@ -64,6 +64,10 @@ Provide a schedule of the research, together with milestones along the path.
 
 The final outcome of the research: in which form will the research be concluded. It could be a prototype, a proof-of-concept, a scientific paper, a report, etc.
 
+### Relation to VeChain
+
+Whether the research could be benefitial to VeChain and its ecosystem, and how?
+
 ## Budget
 
 The provisioned plan of budget allocation: personnel, equipment, experimental fee, etc. In case that there are already candidates for the research personnel, it is encouraged to also include the qualification of the candidates.
