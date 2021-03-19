@@ -101,6 +101,7 @@ The Operations Team takes care of remittances.
    3. The application is accepted when all requested changes are addressed, and one committee member approves your pull request.
 4. **Milestone Delivery and Payment**
    1. Milestones are to be delivered on the [Grant Milestone Delivery](milestone-delivery) repository. You can find the delivery process [here](milestone-delivery#mailbox-milestone-delivery-process).
+   2. Once the application is accepted, the first payment will be immediately disbursed to fund the project.
 
 
 The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
