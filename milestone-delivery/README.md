@@ -13,7 +13,7 @@
 
 The milestone delivery process is part of the [General Grant Program](../README.md). You can find the application process [here](../README.md#process).  
 
-:warning: Before you submit a milestone, make sure it complies with milestone delivrables described in the initial pull request.
+:warning: Before you submit a milestone, make sure it complies with milestone deliverables described in the initial pull request.
 
 1. **Milestone Delivery:**
    1. [Fork](https://github.com/vechain/Grants-Program/Grant-Milestone-Delivery/fork) this repository with the **same GitHub account** that you used to submit the application.
@@ -47,5 +47,4 @@ We have Element channels for real-time discussions on VeChain blockchain. Join t
 ## License <!-- omit in toc -->
 
 VeChain Thor is licensed under the
-[GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html), also included
-in *LICENSE* file in repository.
+[GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html), also included in *LICENSE* file in repository.
