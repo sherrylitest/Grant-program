@@ -82,7 +82,7 @@ The Operations Team takes care of remittances.
 - [Janice Hua](https://github.com/JaniceVVV)
 - [Sherry Li](https://github.com/NecoSherry)
 
-## Process
+## :pencil: Process
 
 1. **Application**
    1. [Fork](https://github.com/vechain/Grants-Program/) this repository.
@@ -106,7 +106,7 @@ The Operations Team takes care of remittances.
 The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
 
-## Help
+## :bulb: Help
 
 ### Additional information
 - [VeChain Foundation Website](https://vechain.org)
