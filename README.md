@@ -1,25 +1,24 @@
 # VeChain General Grant Program <!-- omit in toc -->
 
-**Important:** The VeChain Foundation General Grant Program, aiming to grow VeChain's developer community and enlarge its ecosytemf, is up to **$30,000 for every application**, which are tracked **transparently** on GitHub and disbursed in **USDT(ERC 20)**.
-
+**:loudspeaker:** **Important:** The VeChain General Grant Program focuses on supporting ecosystem projects and researches，the grant will be up to **$30,000 for every application**, which are tracked **transparently** on GitHub and disbursed in **USDT(ERC 20)**. Once the application is accepted, the first payment will be immediately disbursed to fund the project.
 
 ---
 
-- [Introduction](#introduction)
+- [:wave: Introduction](#introduction)
   - [Guidelines](#guidelines)
   - [Support](#support)
   - [Team](#team)
     - [VeChain Grant Committee](#vechain-grant-committee)
     - [VeChain Grant Evaluators](#vechain-grant-evaluators)
     - [VeChain Operation Team](#vechain-operation-team)
-- [Process](#process)
-- [Help](#help)
+- [:pencil:Process](#process)
+- [:bulb: Help](#help)
   - [Additional information](#additional-information)
   - [Real-time conversation](#real-time-conversation)
 
-## Introduction
+## :wave:  Introduction
 
-As part of our commitment to promoting the VeChain ecosystem, we offer the comprehensive grants and bounty programs focused on funding applications development and research efforts related to **Sync2/Connex, fee delegation protocols, MTT,etc**. For more information about the VeChain Foundation, please visit our [website](https://vechain.org/).
+As part of our commitment to promoting the VeChain ecosystem, we offer comprehensive grants and bounty programs focused on funding applications development and research efforts related to **Sync2/Connex, fee delegation protocols, MTT, etc**. For more information about the VeChain Foundation grants and bounty programs, please visit our [website](https://vechain.org/).
 
 The General Grant Program tries to achieve the above while being:
 
@@ -29,21 +28,21 @@ The General Grant Program tries to achieve the above while being:
 
 ### Guidelines
 
-Anyone is welcome to apply for a grant. Projects funded through our programs are broad in scope, but our focus lies on strong technical projects that add value to the ecosystem.
+Anyone is welcome to apply for a general grant. Projects funded through our programs are broad in scope, but our focus lies on strong technical projects that add value to the ecosystem.
 
 Generally, your project will have better chances to get accepted if:
 
 - It presents a **well-researched** or tested concept, for which ideally you are able to show some prior work.
-- You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources or an existing business model.
+- You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources, or an existing business model.
 - Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. We ask you to provide the GitHub profiles of all team members as part of your application and will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms.
 - Your application is **rich in technical details** and well-defined.
 - You can clearly present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.
 
 Additionally, it must fulfill the following requirements:
 
-- All code produced as part of a grant must be **open-sourced**, and it must also not rely on closed-source software for full funcionality. We prefer Apache 2.0, but GPLv3 or Unlicense are also acceptable.
-- We do not award grants for projects that have been the object of a successful token sale.However, we do not limit project's option to do token sales in the future.
-- Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
+- All code produced as part of a grant must be **open-sourced**, and it must also not rely on closed-source software for full functionality. 
+- We do not award grants for projects that have been the object of a successful token sale. However, we do not limit the project's option to do token sales in the future.
+- Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
 
 In addition to the information provided on your application, note that your project will need to comply with our [Grant Milestone Delivery](/milestone-delivery/README.md). In particular, we require all projects to create documentation that explains how their project works. At a minimum, _written_ documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider hiring a freelance or part-time technical writer as part of the grant.
 
@@ -56,7 +55,7 @@ The scope of our General Grants Programs consists of funding and feedback on del
 
 #### VeChain Grant Committee
 
-The committee consists of individuals who know the funding priorities of the VeChain ecosystem, and is responsible for evaluating grant applications and providing feedback on these.
+The committee consists of individuals who know the funding priorities of the VeChain ecosystem and is responsible for evaluating grant applications and providing feedback on these.
 
 In cases where a niche expert opinion is desirable, one of the committee members may request such a review.
 
@@ -67,7 +66,7 @@ In cases where a niche expert opinion is desirable, one of the committee members
 
 #### VeChain Grant Evaluators
 
-Evaluators are individuals who will perform the preliminary review to check whether tha application is formatted correctly and includes all the requested information.The committee has the right to add or remove evaluators on the basis of supermajority.
+Evaluators are individuals who will perform the preliminary review to check whether the application is formatted correctly and includes all the requested information. The committee has the right to add or remove evaluators baseed on a supermajority.
 
 - [Tony Li](https://github.com/libotony)
 - [Jack Wu](https://github.com/XJWX89)
@@ -91,7 +90,7 @@ The Operations Team takes care of remittances.
    3. Name the new file after your project: `project_name.md`.
    4. Fill out the template with the details of your project. The more information you provide, the faster the review.
    5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
-   6. Please read the [disclaimer](disclaimer.md) carefully before applying VeChain General Grant.
+   6. Please read the [disclaimer](disclaimer.md) carefully before applying for VeChain General Grant.
 2. **Preliminary Review**
    1. The [Evaluators](#vechain-grant-evaluators) will check if the application is formatted correctly and includes all requested information. 
    2. The [Evaluators](#vechain-grant-evaluators) can (and usually does) issue comments and request additional information on the pull request.
@@ -132,5 +131,4 @@ Below is a list of other bounty programs in the VeChain ecosystem:
 ## License <!-- omit in toc -->
 
 VeChain Thor is licensed under the
-[GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html), also included
-in *LICENSE* file in repository.
+[GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html), also included in *LICENSE* file in the repository.
