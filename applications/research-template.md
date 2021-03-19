@@ -1,8 +1,10 @@
 # VeChain grant research proposal template
 
-## Title of the proposal
+* **Research Name:** Name of your research proposal 
+* **Team Name:** Legal name of your team (e.g. Duo)
+* **Payment Address:** USDT (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage. 
 
-The title of the research project.
+> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Applicants
 
