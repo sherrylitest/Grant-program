@@ -2,7 +2,7 @@
 
 **:loudspeaker:** **Important:** The VeChain General Grant Program focuses on supporting ecosystem projects and researches，the grant will be up to **$30,000 for every application**, which are tracked **transparently** on GitHub and disbursed in **USDT(ERC 20)**. Once the application is accepted, the first payment will be immediately disbursed to fund the project.
 
-With sincere appreciation for long-term support from Economic Nodes and Economic X Nodes holders, VeChain will support 5% additional fund for applicants own Economic Node, and 15% for Economic X node. Note that you have to send email([`applications/email-template.md`](applications/email-template.md)) to bounty@vechain.com to claim the additional grant. 
+With sincere appreciation for long-term support from Economic Nodes and Economic X Nodes holders, VeChain will support 5% additional fund for applicants own Economic Node, and 15% for Economic X node. Note that you have to send an email([`applications/email-template.md`](applications/email-template.md)) to bounty@vechain.com to claim the additional grant. 
 
 ---
 
