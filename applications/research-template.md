@@ -1,22 +1,18 @@
 # VeChain grant research proposal template
 
-## Title of the proposal
+## Title
 
 The title of the research project.
 
 ## Applicants
 
-A proposal should have one main applicant and (possibly) multiple co-applicants.
-
-Here, information about all (co-)applicants, with names, affiliations, scientific background, and any information related to the merits of the applicants for the research are recommended to be highlighted here.
+Please include here information about all (co-)applicants, with names, affiliations, scientific background, and any information related to the merits of the applicants for the research.
 
 CVs of the applicants should also be included, either in the end of this proposal or in a separate file.
 
 ## Summary
 
-### Summary main body
-
-A scientific summary of the proposal with less than 300 words.
+It is recommended that the summary be less than 300 words.
 
 ### Main field of research
 
@@ -38,38 +34,30 @@ List no more than five keywords that are closely related to the research.
 
 ## Research proposal (main body)
 
-A detailed research proposal with less than 4000 words. The applicants could use any preferred structure to state this part as clear as possible. It is recommended for the applicant to include the following parts.
+The applicants may use any preferred structure to state this part as clear as possible. It is recommended for the applicant to include the following parts.
+
+### Problem Statement
+
+The applicants should clearly describe the research problem to be tackled and why the problem is significant for VeChain and its ecosystem.
+
+### Contributions
 
 ### Background
-
-General backgrounds, state-of-the-art, etc.
-
-### Contribution
-
-Problem statement, importance of the problem, how this research will contribute to the solution of the problem, and what is the most innovative point in this research.
 
 ### Approach
 
 The approach to conduct the research, also reasoning about the viability of this approach, e.g., the applicants have conducted similar research or used similar approaches before.
 
-### Risk
+### Risks
 
 Discussion about the possible risks during the research process and their consequences.
 
-### Plan
+### Milestones
 
-Provide a schedule of the research, together with milestones along the path.
-
-### Outcome
-
-The final outcome of the research: in which form will the research be concluded. It could be a prototype, a proof-of-concept, a scientific paper, a report, etc.
-
-### Relation to VeChain
-
-Whether the research could be benefitial to VeChain and its ecosystem, and how?
+The applicants should define multiple milestones together with the outcome of each milestone. The outcome may, for instance, be a prototype system, proof-of-concept, scientific paper, technical report, etc.
 
 ## Budget
 
-The provisioned plan of budget allocation: personnel, equipment, experimental fee, etc. In case that there are already candidates for the research personnel, it is encouraged to also include the qualification of the candidates.
+A detailed budget should be provided to justify the requested fund. Please note that funding for each research project will be capped at 30,000 USD. 
 
 ## References
