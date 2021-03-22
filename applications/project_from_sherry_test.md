@@ -35,7 +35,7 @@ Please describe the team's relevant experience. If the project involves developm
 
 ### Team Code Repos
 
-- https://github.com/<your_repo_1>
+- https://github.com/sherrylitest
 - https://github.com/<your_repo_2>
 
 ### Team LinkedIn Profiles
